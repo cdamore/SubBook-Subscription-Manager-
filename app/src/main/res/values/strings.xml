@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cdamore-SubBook</string>
+    <string name="add_name">Name</string>
+    <string name="add_date">Date (yyyy-mm-dd)</string>
+    <string name="add_charge">Monthly Charge</string>
+    <string name="add_comment">Comments (optional)</string>
+    <string name="add_subscription">Add Subscription</string>
+    <string name="edit_subscription">Edit</string>
+    <string name="update_subscription">Update</string>
+    <string name="delete_subscription">Delete</string>
+</resources>

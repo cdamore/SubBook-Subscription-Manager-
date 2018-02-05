@@ -4,4 +4,4 @@
 
 # JavaDoc documentation can be found in 'docs' folder
 
-# APK can be found under app/build/outputs/spk
+# APK can be found under apk/debug
